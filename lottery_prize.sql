@@ -1,0 +1,11 @@
+INSERT INTO `lottery_prize` VALUES (1, 1, '9元现金筹码', '9元现金筹码', 50.00, 0, 1, 1, 0, 0, '1');
+INSERT INTO `lottery_prize` VALUES (2, 2, '15元现金筹码', '15元现金筹码', 20.00, 0, 1, 1, 0, 0, '1');
+INSERT INTO `lottery_prize` VALUES (3, 3, '18元现金筹码', '18元现金筹码', 20.00, 0, 1, 1, 0, 0, '1');
+INSERT INTO `lottery_prize` VALUES (4, 4, '28元现金筹码', '28元现金筹码', 10.00, 0, 1, 1, 0, 0, '1');
+INSERT INTO `lottery_prize` VALUES (5, 5, '38元现金筹码', '38元现金筹码', 7.00, 0, 1, 1, 0, 0, '1');
+INSERT INTO `lottery_prize` VALUES (6, 6, '58元现金筹码', '58元现金筹码', 6.00, 0, 1, 1, 0, 0, '1');
+INSERT INTO `lottery_prize` VALUES (7, 7, '88元现金筹码', '88元现金筹码', 5.00, 0, 1, 1, 0, 0, '1');
+INSERT INTO `lottery_prize` VALUES (8, 8, '188元现金筹码', '188元现金筹码', 4.00, 0, 1, 1, 0, 0, '1');
+INSERT INTO `lottery_prize` VALUES (9, 9, '288元现金筹码', '288元现金筹码', 3.00, 0, 1, 1, 0, 0, '1');
+INSERT INTO `lottery_prize` VALUES (10, 10, '388元现金筹码', '388元现金筹码', 2.00, 0, 1, 1, 0, 0, '1');
+INSERT INTO `lottery_prize` VALUES (11, 11, '谢谢参与', '谢谢参与', 50.00, 0, 1, 1, 0, 0, '1');
